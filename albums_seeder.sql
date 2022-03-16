@@ -1,8 +1,9 @@
 USE codeup_test_db;
--- noinspection SpellCheckingInspectionForFile
+
+TRUNCATE albums;
 
 
-INSERT INTO albums (`artist`,`name`, `release_date`, `genre`, `sales`)
+INSERT INTO albums (artist, name, release_date, genre, sales)
 VALUES
     ('Michael Jackson', 'Thriller', 1982, 'Pop', 47.3),
     ('AC/DC',   'Back in Black', 1980, 'Hard rock', 26.1),
