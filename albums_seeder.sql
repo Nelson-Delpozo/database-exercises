@@ -1,5 +1,4 @@
 USE codeup_test_db;
-
 TRUNCATE albums;
 
 
@@ -9,7 +8,7 @@ VALUES
     ('AC/DC',   'Back in Black', 1980, 'Hard rock', 26.1),
     ('Pink Floyd', 'The Dark Side of the Moon', 1973, 'Progressive rock', 24.2),
     ('Meat Loaf', 'Bat Out of Hell', 1977, 'Progressive rock', 21.5),
-    ('Whitney Houston / Various artists', 'The Bodyguard', 1992, 'R&B', 28.4),
+    ('Whitney Houston', 'The Bodyguard', 1992, 'R&B', 28.4),
     ('Eagles', 'Their Greatest Hits (1971–1975)', 1976, 'Rock', 32.2),
     ('Bee Gees / Various artists', 'Saturday Night Fever', 1977, 'Disco', 21.6),
     ('Fleetwood Mac', 'Rumours', 1977, 'Soft rock', 27.9),
