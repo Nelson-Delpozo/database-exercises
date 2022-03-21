@@ -24,3 +24,5 @@ FROM roles
 #               ON d.dept_no = de.dept_no
 # WHERE de.to_date = '9999-01-01' AND e.emp_no = 10001;
 
+
+
